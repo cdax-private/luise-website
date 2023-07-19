@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Luise Sandberger</title>
-	<atom:link href="http://localhost/luise_website/feed/?simply_static_page=365" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/luise_website/feed/?simply_static_page=542" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Wed, 19 Jul 2023 21:24:18 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Jul 2023 22:31:14 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
