@@ -2,106 +2,52 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-07-19T23:25:03+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/exhibitions/</loc>
-		<lastmod>2023-07-17T22:19:54+00:00</lastmod>
+		<lastmod>2024-07-18T22:34:13+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/1100129-scaled-1200x600-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/1100138-scaled-1200x600-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/1100083-2-scaled-1200x600-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/1100173-scaled-1200x600-1.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/contact/</loc>
-		<lastmod>2023-07-17T22:21:10+00:00</lastmod>
+		<lastmod>2024-07-18T21:14:37+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/cv/</loc>
-		<lastmod>2023-07-17T22:23:46+00:00</lastmod>
+		<lastmod>2024-07-18T22:39:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/exhibitions/</loc>
+		<lastmod>2024-07-18T22:48:55+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/works/</loc>
-		<lastmod>2023-07-19T23:13:46+00:00</lastmod>
+		<lastmod>2024-07-19T11:39:41+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/1100174-2-scaled.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/very-small-19-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/1100138-2-scaled.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/very-small-03-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/1100143-2-scaled.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/very-small-37-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/1100173-1-scaled.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/1110380.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/1100113-1-scaled.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/1110506.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/1100115-2-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/1100087-2-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/1100089-2-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/1100122-1-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/1100129-2-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/1100130-1-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/1100094-1-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/1100104-2-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/1100101-1-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/1100083-1-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/1100134-2-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/1100165-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/1100150-2-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/1100152-1-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/1100151-2-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/1100098-2-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-17-at-21.02.13-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-17-at-21.02.131-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-17-at-21.02.18-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-17-at-21.02.17-2.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-17-at-21.02.181-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-17-at-22.16.311-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-17-at-21.02.182-1.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/1110372.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
